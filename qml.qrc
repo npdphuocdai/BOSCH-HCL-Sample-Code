@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/memedog.jpg</file>
+        <file>image/china_flag.gif</file>
+        <file>image/china_flag.png</file>
+        <file>image/germany_flag.gif</file>
+        <file>image/germany_flag.png</file>
+        <file>image/india_flag.gif</file>
+        <file>image/india_flag.png</file>
+        <file>image/us_flag.gif</file>
+        <file>image/us_flag.png</file>
+        <file>image/vietnam_flag.gif</file>
+        <file>image/vietnam_flag.png</file>
+        <file>listview.qml</file>
+        <file>welcome.qml</file>
+        <file>StatusBar.qml</file>
+        <file>StatusBarConf.qml</file>
+        <file>image/lock.png</file>
+        <file>image/more.png</file>
+        <file>image/no_wifi.png</file>
+        <file>image/welcome.jpg</file>
+    </qresource>
+</RCC>
